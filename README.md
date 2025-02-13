@@ -5,9 +5,7 @@
 - 📫 Email At iam.sam@keemail.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There’s enough DNA in your body to stretch from the Earth to the Sun and back—about 600 times!
-<html>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=GauravPowar)](https://git.io/streak-stats)
-</html>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GauravPowar)](https://git.io/streak-stats)
 
 <!---
 GauravPowar/GauravPowar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
