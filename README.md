@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gaurav Powar
 
-**Robotics Enthusiast | PCB Designer | Open Source Contributor**  
+**Robotics Enthusiast | Research Scholar | Open Source Contributor**  
 
 I'm passionate about developing innovative solutions in robotics and automation. Currently, I'm honing my skills in PCB designing and eager to collaborate on projects that make a positive impact on humanity.
 
@@ -67,4 +67,4 @@ I'm passionate about developing innovative solutions in robotics and automation.
 
 ---
 
-*“Engineering solutions that empower people.”*
+*“Solutions That Empower People.”*
