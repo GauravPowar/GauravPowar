@@ -38,8 +38,8 @@ I'm passionate about developing innovative solutions in robotics and automation.
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/BBC%20Micro:Bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white">
   <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white">
-  <img src="https://img.shields.io/badge/LattePanda-0078D7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAA...">
-  <img src="https://img.shields.io/badge/NodeMCU-4885ed?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAA...">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/Seeed%20Studio-00B0FF?style=for-the-badge&logo=seeedstudio&logoColor=white">
 </p>
 
 ---
