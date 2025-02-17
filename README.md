@@ -51,7 +51,7 @@ I'm passionate about developing innovative solutions in robotics and automation.
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpowar&layout=compact&theme=radical">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravPowar&theme=dark" alt="GitHub Streaks">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravPowar&theme=dark&v=2)
 </p>
 
 ---
