@@ -20,7 +20,7 @@ I'm passionate about developing innovative solutions in robotics and automation.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Thonny-375EAB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
 ### 🔹 Programming Languages  
@@ -38,8 +38,8 @@ I'm passionate about developing innovative solutions in robotics and automation.
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/BBC%20Micro:Bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white">
   <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-  <img src="https://img.shields.io/badge/RP2040%20(Pico)-DC267F?style=for-the-badge&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-CC0000?style=for-the-badge&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/RP2040%20(Pico)-FF0066?style=for-the-badge&logo=raspberrypi&logoColor=white">
 </p>
 
 ---
