@@ -47,11 +47,11 @@ I'm passionate about developing innovative solutions in robotics and automation.
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravPowar&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravpowar&show_icons=true&theme=radical">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravPowar&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpowar&layout=compact&theme=radical">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravPowar&theme=dark&v=2" alt="GitHub Streaks">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravPowar&theme=dark" alt="GitHub Streaks">
 </p>
 
 ---
