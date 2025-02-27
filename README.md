@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Gaurav Powar
 
-**Robotics Enthusiast | Research Scholar | Open Source Contributor**  
+**Robotics Enthusiast | Research Scholar | Open Source Contributor**
 
-I'm passionate about developing innovative solutions in robotics and automation. Currently, I'm honing my skills in assistive technology and eager to collaborate on projects that make a positive impact on humanity.
+I'm an award-winning robotics developer and research scholar, passionate about creating innovative solutions in robotics and automation. Currently, I'm honing my skills in assistive technology and eager to collaborate on projects that positively impact humanity.
 
-- **🌱 Currently Learning:** Advanced PCB Designing Techniques  
+- **🌱 Currently Learning:** Advanced PCB Designing Techniques with EasyEDA for a custom USB-C Hub  
 - **💬 Ask Me About:** Robotics, Automation, Computational Data Science  
 - **📫 How to Reach Me:** [iam.sam@keemail.me](mailto:iam.sam@keemail.me)  
 - **😄 Pronouns:** He/Him  
-- **⚡ Fun Fact:** There’s enough DNA in your body to stretch from the Earth to the Sun and back—about 600 times!  
+- **⚡ Fun Fact:** The first robot-assisted surgery occurred in 1985; today, robotic surgeries are becoming commonplace in hospitals worldwide!  
 
 ---
 
@@ -16,6 +16,8 @@ I'm passionate about developing innovative solutions in robotics and automation.
 
 ### 🔹 Software  
 <p align="center">
+  <img src="https://img.shields.io/badge/EasyEDA-3C6EB4?style=for-the-badge&logo=easyeda&logoColor=white">
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -25,11 +27,14 @@ I'm passionate about developing innovative solutions in robotics and automation.
 
 ### 🔹 Programming Languages  
 <p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Embedded%20C-00979D?style=for-the-badge&logo=embeddedc&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
 
@@ -47,9 +52,9 @@ I'm passionate about developing innovative solutions in robotics and automation.
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravpowar&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravPowar&show_icons=true&theme=radical" alt="Gaurav's GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpowar&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravPowar&layout=compact&theme=radical" alt="Top Languages">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravPowar&theme=dark" alt="GitHub Streaks">
 </p>
@@ -59,16 +64,12 @@ I'm passionate about developing innovative solutions in robotics and automation.
 ## 🚀 Featured Projects  
 
 ### **🔹 [Interest Calculator](https://github.com/GauravPowar/Interest_Calculator)**  
-   *A web application that calculates simple and compound interest, featuring a user-friendly interface with dark mode support.*  
+   *A web application that calculates simple and compound interest, featuring a user-friendly interface with dark mode support. An upcoming Windows Offline Client is in development to enhance accessibility.*  
    **Tech Stack:** Flask, HTML, CSS, JavaScript  
 
-### **🔹 [Emergency SOS Kit](https://github.com/GauravPowar/Emergency_SOS_Kit)**  
-   *A compact and efficient emergency response system that enables quick SOS communication and alerts.*  
-   **Tech Stack:** Arduino, ESP32, IoT, Embedded Systems  
-
-### **🔹 [RFID Access Control System](https://github.com/GauravPowar/RFID_ACS)**  
-   *An RFID-based access control system designed for secure entry and authentication.*  
-   **Tech Stack:** Arduino, RFID, Security Systems  
+### **🔹 [Funny Calculator](https://github.com/GauravPowar/Funny_Calculator)**  
+   *A unique calculator that not only performs calculations but also adds a fun twist with humorous messages, easter eggs, and quirky error handling. A collaborative project with [@Vasumitra1](https://github.com/Vasumitra1).*  
+   **Tech Stack:** Python, Tkinter  
 
 ---
 
