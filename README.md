@@ -71,6 +71,9 @@ I'm an award-winning robotics developer and research scholar, passionate about c
    *A unique calculator that not only performs calculations but also adds a fun twist with humorous messages, easter eggs, and quirky error handling. A collaborative project with [@Vasumitra1](https://github.com/Vasumitra1).*  
    **Tech Stack:** Python, Tkinter  
 
+### **🔹 [Minimal Note-Taking App](https://github.com/GauravPowar/Minimal_Note_Taking_App)**  
+   *A lightweight and distraction-free note-taking app designed for simplicity and efficiency. Features include auto-saving, markdown support, and a clean UI.*  
+   **Tech Stack:** HTML, CSS, JavaScript, LocalStorage  
 ---
 
 ## 🌐 Connect with Me  
