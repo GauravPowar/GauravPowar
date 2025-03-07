@@ -80,7 +80,7 @@ I'm an award-winning robotics developer and research scholar, passionate about c
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://gauravpowarin.github.io/home">
+  <a href="https://gauravpowar.vercel.app">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
   <a href="https://www.instagram.com/techwhizgaurav/">
