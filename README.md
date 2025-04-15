@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gaurav Powar
 
-**Robotics Enthusiast | Research Scholar | Open Source Contributor**
+**Robotics Enthusiast | Research Student | Open Source Contributor**
 
 I'm an award-winning robotics developer and research scholar, passionate about creating innovative solutions in robotics and automation. Currently, I'm honing my skills in assistive technology and eager to collaborate on projects that positively impact humanity.
 
