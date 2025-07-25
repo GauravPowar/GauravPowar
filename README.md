@@ -9,8 +9,11 @@ Publications: I'm actively engaged in research and have authored publications on
 Outreach & Community: I'm a dedicated science communicator with Jigyansa and actively involved in community service through the Village Development & Activity Club. I believe in giving back to society by promoting scientific literacy and community engagement.
 
 🔗 Let's Connect!
+
 LinkedIn: [Gaurav Powar](https://www.linkedin.com/in/gauravpowarin/)
+
 Twitter: [@gauravpowar_](https://x.com/gauravpowar_)
+
 Email: [powar.gaurav@tuta.io](mailto:powar.gaurav@tuta.io)
 
 Feel free to explore my repositories and learn more about my projects and contributions!
