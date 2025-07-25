@@ -1,4 +1,5 @@
 Hi there, I'm Gaurav Powar! 👋
+
 Welcome to my GitHub profile! I'm an Undergraduate Researcher at IISER Berhampur, deeply passionate about exploring the frontiers of Life Science and dedicated to making complex scientific concepts accessible through Science Communication. My work spans interdisciplinary fields, connecting fundamental research with real-world impact.
 
 🔬 My Key Areas & Interests
